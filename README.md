@@ -1,4 +1,4 @@
-# Project-Proposal
+# Professional Football League Database 
 Database Foundation Term Project 
 
 # Objective
