@@ -1,2 +1,2 @@
-Here is Figma link to the sample UI:
-https://www.figma.com/design/XvcQ1ip9CUVLdwKrjh4U7N/Untitled?node-id=0-1&t=cUFYFUZeWX2KyqrI-1
+Here is link to the sample UI:
+https://codepen.io/vivaan_23/pen/PwYZKym
